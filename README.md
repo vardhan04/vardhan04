@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Vardhan</h1>
-<h3 align="center">Advancing Code, Elevating Craft: Insights from an Experienced Software Developer</h3>
+<h3 align="center">Advancing Code, Elevating Craft: Insights from an Experienced Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vardhan04&label=Profile%20views&color=0e75b6&style=flat" alt="vardhan04" /> </p>
@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://vardhan04.github.io/SaiVardhan_Portfolio/](https://vardhan04.github.io/SaiVardhan_Portfolio/)
 
-- 💬 Ask me about **React, Python, DSA, Web Security**
+- 💬 Ask me about **React, Python, DSA, ML Algorithms**
 
 - 📫 How to reach me **saivardhan.vsd94@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10nC36HRWiF7zjgLpxnyr-rAGwCbGFqEr/view](https://drive.google.com/file/d/10nC36HRWiF7zjgLpxnyr-rAGwCbGFqEr/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gZYqf5X0fSLuzDkl_v6-x_QiYbTJ0HNJ/view](https://drive.google.com/file/d/1gZYqf5X0fSLuzDkl_v6-x_QiYbTJ0HNJ/view)
 
 - ⚡ Fun fact **I can solve a Rubik's cube faster than I can run my unit tests!**
 
@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/vardhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vardhan04" height="30" width="40" /></a>
 <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saivardhan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saivardhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saivardhan04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saivardhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saivardhan04" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saivardhan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saivardhan04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
