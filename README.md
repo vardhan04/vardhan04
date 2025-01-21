@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [BulkOperation.bulkId](https://github.com/yaal-coop/pydantic-scim2/issues/13)
 
-- 👨‍💻 All of my projects are available at [https://vardhan04.github.io/SaiVardhan_Portfolio/](https://vardhan04.github.io/SaiVardhan_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://saivardhank.netlify.app/](https://saivardhank.netlify.app/)
 
 - 💬 Ask me about **React, Python, DSA, ML Algorithms**
 
