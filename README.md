@@ -33,6 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vardhan04&show_icons=true&locale=en&layout=compact" alt="vardhan04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vardhan04&show_icons=true&locale=en" alt="vardhan04" /></p>
-
 
