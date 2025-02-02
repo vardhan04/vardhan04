@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **saivardhan.vsd94@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gZYqf5X0fSLuzDkl_v6-x_QiYbTJ0HNJ/view](https://drive.google.com/file/d/1gZYqf5X0fSLuzDkl_v6-x_QiYbTJ0HNJ/view)
-
 - ⚡ Fun fact **I can solve a Rubik's cube faster than I can run my unit tests!**
 
 <h3 align="left">Connect with me:</h3>
